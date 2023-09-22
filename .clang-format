@@ -1,2 +1,8 @@
-BasedOnStyle: google
-IndentWidth: 4
+BasedOnStyle: Microsoft
+IndentWidth: '4'
+MaxEmptyLinesToKeep: '1'
+PointerAlignment: Left
+SortIncludes: 'true'
+SpaceAfterCStyleCast: 'false'
+SpaceAfterLogicalNot: 'false'
+UseTab: Never
